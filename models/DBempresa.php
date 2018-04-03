@@ -4,6 +4,7 @@
       $dados = array(
         'nome' => 'Nome Da Empresa'
       );
+      return $dados;
     }
   }
  ?>
